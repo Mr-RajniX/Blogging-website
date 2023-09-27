@@ -1,3 +1,3 @@
 # Blogging-website
 Tech-A-Thon<br>
-`Deployed Link :` https://mr-rajnix.github.io/Blogging-website/
+`Deployed Link :` https://skywalkersbloggin-web.netlify.app/
